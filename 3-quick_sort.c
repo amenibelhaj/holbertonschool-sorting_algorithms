@@ -37,7 +37,7 @@ array[high] = temp;
 print_array(array, size);
 }
 
-return i + 1;
+return (i + 1);
 }
 /**
  * quick_sort_recursive - Recursively apply quick sort
